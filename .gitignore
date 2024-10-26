@@ -1,8 +1,4 @@
 /yolov8x.pt
 /training
-/input_videos
-/output_videos
 /models
 /runs
-/stubs
-/trackers
