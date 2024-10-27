@@ -8,7 +8,7 @@ the project gets a short video from a football game and analysis the following d
 - each player has a player_id
 - the ball game is detected and marked with green arrow
 - the player that has the ball is marked with red arrow
-- under each player there is cycle in color of the team's shirt
+- Under each player there is a circle in the color of the team shirt
 - teams ball possesion (%)
 - under each player mentioned the number of kilometers the player covered and also his run speed
 
