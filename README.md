@@ -1,6 +1,6 @@
 # football_analysis
 
-As computer science student who really loves football, i saw a tutorial on youtube that builds a project like this, with the instruction of the youtube video i built this project.
+As a computer science student who really loves football, i saw a tutorial on youtube that builds a project like this, with the instruction of the youtube video i built this project.
 <br/>
 the project written in python and uses the yolov5 object detection library.
 <br/>
